@@ -1,5 +1,4 @@
 console.log('✅ STARTING...')
-
 import { join, dirname } from 'path'
 import { createRequire } from 'module';
 import { fileURLToPath } from 'url'
@@ -16,7 +15,7 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('DUX -  BOT', {
+say('GURU -  BOT', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
