@@ -32,6 +32,7 @@ let m2 = `
 ▢ .ppt <stone/paper/scissors>
 ▢ .slot <gamble>
 ▢ .tictactoe <tag Someone>
+∆ .wcg <>
 └───────────
 
 ┌─⊷ *LEVELS AND ECO*
