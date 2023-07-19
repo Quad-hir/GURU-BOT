@@ -217,6 +217,7 @@ break;
     ⎪⌲🖤 _${usedPrefix}casino_
     ⎪⌲🖤 _${usedPrefix}yourmom_
     ⎪⌲🖤 _${usedPrefix}teri mummy_
+    |⌲🖤 _${usedPrefix}wcg_ (by Dux)
     ┗━━━ʕ•㉨•ʔ━━━┛`; // 
           break;
           case 'stickermenu':
