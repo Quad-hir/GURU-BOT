@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2348138224910', 'Elisa', true],
+  ['2348138224910', 'JIN MELODY', true],
   ['66819999025', 'Dux', true], 
   [''] 
 ] //Number of owners
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ 𝙳𝚄𝚇-ʙᴏᴛ'
+global.botname = '᳀𝐸𝑙𝑖𝑠𝑎᳀'
 global.premium = 'true'
-global.packname = '𝐃𝐔𝐗┃ᴮᴼᵀ' 
-global.author = '@Dux' 
+global.packname = '᳀𝐸𝑙𝑖𝑠𝑎᳀' 
+global.author = '@jin melody' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Official_quadhir\n' 
 global.dygp = 'https://chat.whatsapp.com/HQT3QOoiQjG4AIcM3l0xYi'
 global.fgsc = 'https://github.com/Duxlin' 
